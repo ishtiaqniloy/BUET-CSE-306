@@ -1,2 +1,2 @@
-# CSE_306_FP_Added
+# CSE_306_FP_Adder
 Floating Point Added implemented and simulated in Logisim
