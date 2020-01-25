@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BUET-CSE-306
 This Repository contains the offline and online assignments of CSE-306: Computer Architecture Sessional course
 
@@ -7,3 +6,7 @@ Design of ALU as specified
 
 # CSE_306_MIPS_Processor
 MIPS Processor designed and simulated in Logisim
+
+# CSE_306_FP_Adder
+Floating Point Added implemented and simulated in Logisim
+
